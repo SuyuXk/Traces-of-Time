@@ -2,6 +2,9 @@
   <img src="https://github.com/user-attachments/assets/12568569-7a9e-497e-ba19-d275527f8829" alt="ToT" style="width: 400px; height: auto;" />
 </p>
 
+> [!TIP]
+> 整合包正处于开发过程中，教程撰写工作量庞大，如何你有一些开发整合包想法，请私信我的邮箱:m2082427793@gmail.com
+
 [English](README.md) | **简体中文**
 
 ## 关于
