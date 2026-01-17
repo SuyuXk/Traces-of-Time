@@ -1,0 +1,54 @@
+{
+  "name": "安息的灵魂...",
+  "icon": "minecraft:nether_star",
+  "category": "patchouli:end",
+  "advancement": "minecraft:nether/get_wither_skull",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(#9c9c9c)凋灵（Wither）是一种由玩家召唤，会浮在空中且向玩家和生物发射凋灵之首的亡灵敌对生物，同时也是下界之星的唯一来源。$()$(br2)            --Minecraft:Wiki$(br2)在开始前，请先做好最充分的准备($(#2F2222)$(l)凋零$()效果可是很痛的，$(#32CD32)$(l)如果看不懂怎么搭建，可以结合思索$())"
+    },
+    {
+      "type": "multiblock",
+      "enable_visualize": false,
+      "name": "说实话这总比思索好...",
+      "multiblock": {
+        "pattern": [["_AAA_"], ["_BBB_"], ["__0__"]],
+        "mapping": {
+          "A": "minecraft:wither_skeleton_skull",
+          "B": "minecraft:soul_sand",
+          "0": "minecraft:soul_sand"
+        }
+      }
+    },
+    {
+      "type": "image",
+      "title": "凋零",
+      "border": true,
+      "images": [
+        "patchouli:textures/gui/w_1.png",
+        "patchouli:textures/gui/w_2.png"
+      ],
+      "text": "$(l)凋灵$()与大多数生物敌对，它会主动发射出$(l)凋零之首$()(图2)"
+    },
+    {
+      "type": "relations",
+      "title": "相关页面",
+      "text": "在这里了解更多关于凋零效果的信息...",
+      "entries": ["patchouli:effect/diaoling"]
+    },
+    {
+      "type": "image",
+      "title": "随意丢在地上的下界之星",
+      "border": true,
+      "images": ["patchouli:textures/gui/w_3.png"],
+      "text": "$(l)凋灵$()被击败后，会掉落$(#4169E1)$(l)下界之星$()，这是制作$(#4169E1)$(l)信标$()的必要材料."
+    },
+    {
+      "type": "relations",
+      "title": "相关页面",
+      "text": "听说你想挖空置域?",
+      "entries": ["patchouli:def/beacon"]
+    }
+  ]
+}

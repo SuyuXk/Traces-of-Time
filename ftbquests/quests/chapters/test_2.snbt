@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "test_2"
+	group: ""
+	id: "52DF1CEB785CA166"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "test"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "The Lost Book",
+  "landing_text": "A strange book, which seems to record everything about this world...$(br2)欸下次我说中文好了(",
+  "version": 0.1,
+  "creative_tab": "kubejs:tab",
+  "model": "ruuu7:lost_book",
+  "use_resource_pack": true
+}

@@ -1,0 +1,45 @@
+{
+  "name": "建造信标",
+  "icon": "minecraft:beacon",
+  "category": "patchouli:def",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "下界之星",
+      "link_recipe": false,
+      "item": "minecraft:nether_star",
+      "scale": 1.1,
+      "text": "$(#9c9c9c)下界之星（Nether Star）是一种由凋灵掉落的稀有物品，能够用于合成信标.$()$(br2)            --Minecraft:Wiki$(br2)$(#4169E1)$(l)下界之星$()具有$(#ff0000)$(l)免疫爆炸$()的特性，因此不会因为$(l)爆炸$()而消失.你可以使用$(#4169E1)$(l)下界之星$()来制作$(#4169E1)$(l)信标$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "minecraft:beacon",
+      "text": "$(#4169E1)$(l)信标$()的制作虽然用料很大，但它是可以叠加的，因此如果你想获得更多的buff，不妨再去打几只$(l)凋灵$()吧..."
+    },
+    {
+      "type": "spotlight",
+      "title": "信标",
+      "link_recipe": false,
+      "item": "minecraft:beacon",
+      "scale": 1.1,
+      "text": "$(li)要激活一个$(#4169E1)$(l)信标$()，必须达成以下条件:$(br)$(li2)$(#4169E1)$(l)信标$()的上方直至建筑高度限制处不能任何方块遮挡.$(br)$(li2)$(#4169E1)$(l)信标$()要在由$(#E6E6FA)$(l)铁块$()、$(#FFD700)$(l)金块$()、$(#228B22)$(l)绿宝石块$()、$(#00CED1)$(l)钻石块$()或$(#8B4513)$(l)下界合金块$()组成的类似金字塔结构的顶部."
+    },
+    {
+      "type": "multiblock",
+      "name": "最低需求的信标搭建",
+      "multiblock": {
+        "pattern": [
+          ["_____", "__B__", "_____"],
+          ["_AAA_", "_A0A_", "_AAA_"]
+        ],
+        "mapping": {
+          "A": "minecraft:iron_block",
+          "B": "minecraft:beacon",
+          "0": "minecraft:iron_block"
+        },
+        "symmetrical": true
+      },
+      "text": "$(#4169E1)$(l)信标$()等级($(#ff0000)$(l)最高4层$())由层数决定，层数越多，可选效果越多、范围越广."
+    }
+  ]
+}

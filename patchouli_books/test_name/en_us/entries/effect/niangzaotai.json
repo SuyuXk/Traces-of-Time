@@ -1,0 +1,21 @@
+{
+  "name": "仲景成为酿造大师!",
+  "icon": "minecraft:brewing_stand",
+  "category": "patchouli:effect",
+  "advancement": "minecraft:nether/obtain_blaze_rod",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "酿造台",
+      "link_recipe": false,
+      "item": "minecraft:brewing_stand",
+      "scale": 1.1,
+      "text": "$(#9c9c9c)酿造台（Brewing Stand）是一种用于酿造药水、喷溅药水和滞留药水的方块。$()$(br2)            --Minecraft:Wiki$(br2)$(#2F2222)$(l)酿造台$()的主要功能就是酿造，在$(#2F2222)$(l)酿造$()之前你得需要准备一些$(#f8a92b)$(l)烈焰粉$()来进行$(#2F2222)$(l)酿造$()(每个$(#f8a92b)$(l)烈焰粉$()可以进行$(#ff0000)$(l)20次$()$(#2F2222)$(l)酿造$())"
+    },
+    {
+      "type": "crafting",
+      "recipe": "minecraft:brewing_stand",
+      "text": "请记住...不管是什么药水的$(#2F2222)$(l)酿造$()，$(#2F2222)$(l)酿造台$()的$(#2F2222)$(l)酿造$()时间为$(#ff0000)$(l)20s$()；如果你需要$(#2F2222)$(l)酿造配方$()，可以查看$(#4169E1)$(l)任务书.$()$(br2)$(#9c9c9c)话说为什么其他石头做的酿造台和圆石做的是一个颜色(草"
+    }
+  ]
+}

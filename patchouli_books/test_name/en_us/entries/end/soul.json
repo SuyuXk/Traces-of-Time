@@ -1,0 +1,33 @@
+{
+  "name": "来自地狱的亡灵",
+  "icon": "minecraft:wither_skeleton_skull",
+  "category": "patchouli:end",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": false,
+      "title": "凋零骷髅头颅",
+      "item": "minecraft:wither_skeleton_skull",
+      "scale": 1.1,
+      "text": "凋零骷髅头颅是$(l)凋零骷髅$()掉落的物品，可以用来召唤凋零.$(br2)别怪我没告诉你，凋灵骷髅在下界要塞中$(l)亮度小于等于7的地方$()自然生成.$(br2)最好给你的武器附魔上$(#ff0000)$(l)抢夺$()，这会帮助到你..."
+    },
+    {
+      "type": "image",
+      "title": "正在巡视的凋零骷髅",
+      "border": true,
+      "images": ["patchouli:textures/gui/soul.png"],
+      "text": "这地方可真黑..."
+    },
+    {
+      "type": "text",
+      "text": "当你获得$(l)3个凋零骷髅头颅后$()，你就可以进行下一步了..."
+    },
+    {
+      "type": "relations",
+      "title": "相关页面",
+      "text": "你的试炼即将开始...",
+      "entries": ["patchouli:end/soul2"]
+    }
+  ]
+}

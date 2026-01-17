@@ -1,0 +1,23 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "test"
+	group: ""
+	icon: "minecraft:grass_block"
+	id: "6A9CB12A9117167B"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "376FB2DC319FBA92"
+		subtitle: "挖掘属于你的第一块木头"
+		tasks: [{
+			id: "237F09997AC368FB"
+			item: "minecraft:oak_log"
+			type: "item"
+		}]
+		title: "你的第一步"
+		x: -0.5d
+		y: -1.0d
+	}]
+	title: "开始"
+}

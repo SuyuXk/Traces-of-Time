@@ -1,0 +1,22 @@
+{
+  "name": "凋零",
+  "icon": "minecraft:wither_rose",
+  "category": "patchouli:effect",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "凋灵之首",
+      "link_recipe": false,
+      "item": "minecraft:wither_skeleton_skull",
+      "scale": 1.1,
+      "text": "$(l)凋零$()效果是由$(l)凋灵$()发射的$(l)凋灵之首$()产生的$(l)$(#800080)特殊状态效果$()，被命中后会持续受到伤害，且无法通过自然回血恢复生命值."
+    },
+    {
+      "type": "relations",
+      "title": "相关页面",
+      "text": "在这里了解更多关于凋灵的信息...",
+      "entries": ["patchouli:end/soul2", "patchouli:end/soul"]
+    }
+  ]
+}

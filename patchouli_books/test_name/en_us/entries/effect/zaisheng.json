@@ -1,0 +1,16 @@
+{
+  "name": "再生",
+  "icon": "minecraft:potion{Potion:'minecraft:regeneration'}",
+  "category": "patchouli:effect",
+  "advancement": "minecraft:nether/brew_potion",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "再生药水",
+      "link_recipe": false,
+      "item": "minecraft:potion{Potion:'minecraft:regeneration'}",
+      "scale": 1.1,
+      "text": "文本"
+    }
+  ]
+}
