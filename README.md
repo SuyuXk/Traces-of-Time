@@ -1,6 +1,6 @@
-
-<img width="1920" height="1080" alt="ToT" src="https://github.com/user-attachments/assets/12568569-7a9e-497e-ba19-d275527f8829" />
-
+<p align="center">
+<img width="640" height="480" alt="ToT" src="https://github.com/user-attachments/assets/12568569-7a9e-497e-ba19-d275527f8829" />
+</p>
 
 ## About
 - Traces-of-Time is a handcrafted Minecraft modpack deeply optimized and adjusted based on the vanilla game, designed exclusively for new players to deliver a one-stop beginner experience.
