@@ -2,6 +2,9 @@
   <img src="https://github.com/user-attachments/assets/12568569-7a9e-497e-ba19-d275527f8829" alt="ToT" style="width: 400px; height: auto;" />
 </p>
 
+> [!TIP]
+> This modpack is under active development with an extensive tutorial creation workload. If you have any modpack development ideas, reach out to me at m2082427793@gmail.com.
+
 - **English** | [简体中文](README_zh.md)
 
 ## About
