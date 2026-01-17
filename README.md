@@ -3,7 +3,7 @@
 </p>
 
 > [!TIP]
-> This modpack is under active development with an extensive tutorial creation workload. If you have any modpack development ideas, reach out to me at m2082427793@gmail.com.
+> This modpack is currently in development, and the tutorial creation involves a heavy workload. Thank you for your patience...
 
 - **English** | [简体中文](README_zh.md)
 
