@@ -1,0 +1,24 @@
+{
+  "name": "铁砧",
+  "icon": "minecraft:anvil",
+  "category": "patchouli:enchanting",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "铁砧",
+      "link_recipe": true,
+      "item": "minecraft:anvil",
+      "scale": 1.1,
+      "text": "$(#9c9c9c)铁砧（Anvil）是一种可以附魔、修复和重命名物品的方块.铁砧在使用过程中会逐渐受损，变为开裂的铁砧（Chipped Anvil）、损坏的铁砧（Damaged Anvil），最终完全消失.$()$(br2)            --Minecraft:Wiki"
+    },
+    {
+      "type": "relations",
+      "title": "相关页面",
+      "text": "铁砧的主要功能是$(l)重命名改造物品，修复其耐久度或添加魔咒$().$(br2)使用铁砧即可打开其交互界面，将$(l)工具$()与$(l)附魔书$()结合，将$(l)魔咒$()转移到$(l)工具$()上.",
+      "entries": [
+        "patchouli:enchanting/dis_enchanting",
+        "patchouli:enchanting/enchanted_book"
+      ]
+    }
+  ]
+}

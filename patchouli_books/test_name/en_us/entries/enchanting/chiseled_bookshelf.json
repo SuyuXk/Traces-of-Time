@@ -1,0 +1,21 @@
+{
+  "name": "雕纹书架",
+  "icon": "minecraft:chiseled_bookshelf",
+  "category": "patchouli:enchanting",
+  "advancement": "minecraft:story/mine_diamond",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "雕纹书架",
+      "link_recipe": true,
+      "item": "minecraft:chiseled_bookshelf",
+      "scale": 1.1,
+      "text": "你可以将远古典籍放在这上面，很好的装饰品..不是吗?$()$(br2)雕纹书架上的远古典籍不会$(l)叠加$()，$(l)只需一本远古典籍即可解锁该类型$()。例如，两本包含“效率”的远古典籍，效果与单一书的$(l)效果相同$()"
+    },
+    {
+      "type": "relations",
+      "title": "相关页面",
+      "entries": ["patchouli:enchanting/ancient_book"]
+    }
+  ]
+}

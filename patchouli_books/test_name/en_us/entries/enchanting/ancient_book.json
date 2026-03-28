@@ -1,0 +1,25 @@
+{
+  "name": "远古典籍",
+  "icon": "immersiveenchanting:ancient_book",
+  "category": "patchouli:enchanting",
+  "advancement": "minecraft:story/mine_diamond",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "远古典籍",
+      "link_recipe": true,
+      "item": "immersiveenchanting:ancient_book",
+      "scale": 1.1,
+      "text": "$(#9c9c9c)远古典籍（Ancient Book）包含一种附魔，如效率、掠夺它们没有附魔等级.$()$(br2)    --Immersive Enchanting:Wiki$(br2)$(#2F2222)远古典籍$()可以在探索中找到，通常在古老的遗迹或神秘的地点出现，如废弃矿井古城或堡垒"
+    },
+    {
+      "type": "relations",
+      "title": "相关页面",
+      "text": "把一本远古典籍放进围绕附魔桌的$(l)雕刻书架$()上，就能解锁这种附魔。$()$(br2)例如，一本包含“效率”的远古典籍将解锁附魔表中的效率分支$(l)（I、II、III、IV和V级）$()",
+      "entries": [
+        "patchouli:enchanting/enchanting_table",
+        "patchouli:enchanting/chiseled_bookshelf"
+      ]
+    }
+  ]
+}

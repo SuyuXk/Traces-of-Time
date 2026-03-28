@@ -1,0 +1,25 @@
+{
+  "name": "砂轮",
+  "icon": "minecraft:grindstone",
+  "category": "patchouli:enchanting",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "砂轮",
+      "link_recipe": true,
+      "item": "minecraft:grindstone",
+      "scale": 1.1,
+      "text": "$(#9c9c9c)砂轮（Grindstone）是可用于修补损坏的物品并移除魔咒的方块.$()$(br2)            --Minecraft:Wiki$(br2)$(#2F2222)砂轮可以通过合成获得，也可以在部分遗迹中找到（如村庄的锻造台）."
+    },
+    {
+      "type": "relations",
+      "title": "相关页面",
+      "text": "是的，这东西可以给你去除魔咒，还会给你返还一些经验.",
+      "entries": [
+        "patchouli:enchanting/dis_enchanting",
+        "patchouli:enchanting/enchanted_book",
+        "patchouli:enchanting/enchanting_table"
+      ]
+    }
+  ]
+}

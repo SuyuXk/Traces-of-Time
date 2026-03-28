@@ -1,0 +1,39 @@
+{
+  "name": "附魔台",
+  "icon": "minecraft:enchanting_table",
+  "category": "patchouli:enchanting",
+  "advancement": "minecraft:story/mine_diamond",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "附魔台",
+      "link_recipe": true,
+      "item": "minecraft:enchanting_table",
+      "scale": 1.1,
+      "text": "$(#9c9c9c)附魔台（Enchanting Table）是一种能够让玩家花费经验等级来为工具、武器、书和盔甲进行附魔的方块.$()$(br2)            --Minecraft:Wiki$(br2)$(#2F2222)附魔台的界面和原版不同，与$(l)进度$()界面类似，在界面内可以拖动查看可用的附魔"
+    },
+    {
+      "type": "image",
+      "title": "附魔",
+      "border": true,
+      "images": ["patchouli:textures/gui/enchanting.png"],
+      "text": "附魔需要$(l)材料$()，不消耗$(l)经验$()"
+    },
+    {
+      "type": "relations",
+      "title": "相关页面",
+      "text": "在GUI界面中$(l)下槽位$()用于放置青金石，$(l)中间槽位$()用于负责附魔材料费用用于放置工具或护甲，$(l)上槽位$()用于放置工具或护甲",
+      "entries": [
+        "patchouli:enchanting/ancient_book",
+        "patchouli:enchanting/chiseled_bookshelf",
+        "patchouli:enchanting/grindstone"
+      ]
+    },
+    {
+      "type": "image",
+      "border": true,
+      "images": ["patchouli:textures/gui/enchanting_2.png"],
+      "text": "$(l)附魔等级$()越高，消耗材料的$(l)稀有度$()也就越高"
+    }
+  ]
+}

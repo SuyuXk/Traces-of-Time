@@ -1,0 +1,5 @@
+{
+  "name": "附魔师",
+  "description": "这是你接触的第一个难点...$()$(br2)在这个整合包中，附魔机制进行了很大的调整，点击$(l:https://zh.minecraft.wiki/w/%E9%99%84%E9%AD%94%E5%8F%B0)这里$(/l)了解原版附魔台的用途",
+  "icon": "minecraft:enchanting_table"
+}

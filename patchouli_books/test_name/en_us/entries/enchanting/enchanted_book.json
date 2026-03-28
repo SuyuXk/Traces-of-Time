@@ -1,0 +1,25 @@
+{
+  "name": "附魔书",
+  "icon": "minecraft:enchanted_book",
+  "category": "patchouli:enchanting",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "附魔书",
+      "link_recipe": true,
+      "item": "minecraft:enchanted_book",
+      "scale": 1.1,
+      "text": "$(#9c9c9c)附魔书（Enchanted Book）是用来给特定物品添加魔咒的物品.$()$(br2)            --Minecraft:Wiki$(br2)$(#2F2222)附魔书除了祛魔台提取获取外，还可以作为“宝藏”物品通过钓鱼获得"
+    },
+    {
+      "type": "relations",
+      "title": "相关页面",
+      "text": "经验修补魔咒已消失在这个世界中，取而代之的是名叫重塑的魔咒.",
+      "entries": [
+        "patchouli:enchanting/dis_enchanting",
+        "patchouli:enchanting/grindstone",
+        "patchouli:enchanting/anvil"
+      ]
+    }
+  ]
+}

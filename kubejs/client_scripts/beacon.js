@@ -3,7 +3,7 @@ Ponder.tags((event) => {
     "kubejs:beacon",
     "minecraft:beacon",
     "突破天际的光线",
-    "记住!不要挖脚下",
+    "线光的际天破突",
     [
       "minecraft:beacon",
       "minecraft:iron_block",

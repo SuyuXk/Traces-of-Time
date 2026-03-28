@@ -2,8 +2,8 @@ Ponder.tags((event) => {
   event.createTag(
     "kubejs:decoration",
     "minecraft:oak_planks",
-    "地板の摸鱼工位",
-    "方块们摸鱼被你逮到了",
+    "地板装饰",
+    "说实话，这并不好看...",
     [
       "minecraft:stripped_oak_log",
       "minecraft:stripped_spruce_log",

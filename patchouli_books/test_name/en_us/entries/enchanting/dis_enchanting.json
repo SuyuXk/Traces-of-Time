@@ -1,0 +1,25 @@
+{
+  "name": "祛魔台",
+  "icon": "disenchanting_table:disenchanting_table",
+  "category": "patchouli:enchanting",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "祛魔台",
+      "link_recipe": true,
+      "item": "disenchanting_table:disenchanting_table",
+      "scale": 1.1,
+      "text": "你可以将附魔物品放在这上面，进行祛魔操作。$(br2)祛魔台可以将附魔物品的附魔效果移除，并将其转化为附魔书。"
+    },
+    {
+      "type": "relations",
+      "title": "相关页面",
+      "entries": [
+        "patchouli:enchanting/ancient_book",
+        "patchouli:enchanting/enchanted_book",
+        "patchouli:enchanting/grindstone",
+        "patchouli:enchanting/anvil"
+      ]
+    }
+  ]
+}
